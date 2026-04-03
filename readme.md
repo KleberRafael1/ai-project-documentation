@@ -109,9 +109,9 @@ A imagem abaixo demonstra a utilização de inteligência artificial para interp
 
 ## 📸 Exemplos Visuais
 
-![Exemplo de análise](images/imagem_03.png)
+![Exemplo de análise](images/Imagem_03.png)
 
-![Exemplo de análise](images/imagem_04.png)
+![Exemplo de análise](images/Imagem_04.png)
 
 ---
 
